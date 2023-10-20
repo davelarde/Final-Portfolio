@@ -34,7 +34,7 @@ To use this we decided to create a specific file named Favorites.Js, where we wo
 We decided to use "UseContext" for this functionality, so users could add their recipe to their favorites page. Below every recipe card there would be a button for this action.
 Some of the difficulties we faced, were on how to were learning how to use "Use Context" which one of our most reliable resources were projects we have done with Multiverse.
  - This an example on how the user has the option to add a recipe to their favorites page
- !["add Favorites 1"](../Images/addfavorites1.png)
+ !["add Favorites 1"](../Images/addFavorites1.png)
 
  - On this example, user is in the Favorites page, where they can see all recipes that were added by them.
 
