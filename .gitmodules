@@ -4,3 +4,9 @@
 [submodule "FrontEndProject/Rico-Recipes"]
 	path = FrontEndProject/Rico-Recipes
 	url = https://github.com/Rico-Recipes/Rico-Project-app
+[submodule "BackEndProject/NewBee"]
+	path = BackEndProject/NewBee
+	url = https://github.com/NewBee-Social-app/NewBee
+[submodule "DeploymentProject/Dig-in"]
+	path = DeploymentProject/Dig-in
+	url = https://github.com/Dig-in-Foodie/Dig-in
