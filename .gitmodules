@@ -10,3 +10,6 @@
 [submodule "DeploymentProject/Dig-in"]
 	path = DeploymentProject/Dig-in
 	url = https://github.com/Dig-in-Foodie/Dig-in
+[submodule "HackatonProject/Travel-Bubbles"]
+	path = HackatonProject/Travel-Bubbles
+	url = https://github.com/davelarde/go-travel-bubbles
