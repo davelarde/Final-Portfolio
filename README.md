@@ -1,5 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
+
+![Image](/images/banner.png "Motivational Banner")
+
 <br>
 
 <h1>Multiverse Final Portfolio✨📚</h1>
@@ -48,23 +51,28 @@ I am excited about the future possibilities that lie ahead for me in this field,
 I had the privilege of being a part of the SWE Cisco Apprenticeship program in 2022, a transformative experience that provided me with a solid foundation in software development together with the Multiverse Bootcamp, where my on-job training team is PIAM(Provisioning, Identity, Access,Management), collaborating with dedicated professionals that has not only expanded my technical skills but also deepened my understanding of real-world back-end applications of software engineering and some cybersecurity practices.
 
 ### Front end Project
-Front end project will contain the front end project I've worked in a group during the Multiverse Bootcamp. The project you will find within the folder is called "Rico-Recipes" built with React. 
-Click below to find more information about it :
-[Rico-Recipes](add the link to project here)
+Front end project folder will include the front end project I've worked in a group during the Multiverse Bootcamp. The project you will find within the folder is called "Rico-Recipes" built with React. 
+* Click the link to find out more about it :
+[Rico-Recipes](https://github.com/davelarde/Final-Portfolio/tree/main/FrontEndProject)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Back end Project
+
+Back-end project folder will include "Newbee" a backend project built with Node.js. This was the backend module project that helped me to understand much better how backend engineer works.
+* Click the link to find out more about it :
+ [NewBee](https://github.com/davelarde/Final-Portfolio/tree/main/BackEndProject)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment end Project
+### Deployment Project
+Deployment folder will include "Dig-in", a project done at the end of the Deployment Module at Multiverse Bootcamp. This project will describe the skills obtained during deployment, using CI/CD .
+* Click the link to find out more about it :
+[Dig-in](https://github.com/davelarde/Final-Portfolio/tree/main/DeploymentProject)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Hackaton end Project
+### Hackaton Project 
+Hackaton Project folder will include "Travel-Bubbles", a very significant project and my first introduction to "Golang", a programming language that now a day is my main tool in my on-job training.
+* Click the link to find out more about it :
+[Travel Bubbles](https://github.com/davelarde/Final-Portfolio/tree/main/HackatonProject)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Contact me
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Acknowledgments
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

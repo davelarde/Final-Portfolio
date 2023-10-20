@@ -1,0 +1,3 @@
+[submodule "FrontEndProjects"]
+	path = FrontEndProjects
+	url = https://github.com/Rico-Recipes/Rico-Project-app
