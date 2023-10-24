@@ -3,7 +3,6 @@
 Rico Recipes is the perfect app, for stay home people who are looking daily for a recipe and ran out of ideas. This application will help you find any recipe by just typing a word or meal.
 This was a group project and my team-mates and I we were inspired to do this project , as most jobs are now a days remote, you tend to cook more but also run out of ideas.
 The most important feature in this project is that you are able to search or use the dropdown. Whether is breakfast, or dinner you can find any recipe at Rico-Recipes. if you perhaps are craving some breakfast you had in Mexico like "Chilaquiles" You will also be able to find the recipe in our app.
-- Include relevant screenshots
 
 ## Technologies
 - List all technologies and versions here
