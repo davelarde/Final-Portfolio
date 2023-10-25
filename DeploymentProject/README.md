@@ -1,4 +1,4 @@
-## Project #3
+## Deployment Project
 Give a high-level overview of the project purpose
 - Dig-in is the perfect application for travellers who are for the first time in a city or country and do not have a good idea where to eat or what is good, whether Tripadvisor suggests good restaurants, most travellers would like to try what locals eat, in a local business and not in a touristic restaurant. Dig-in will not only allow the user to see all these suggestions, but will also allow the user to create a new blog regarding a place they would like post and perhaps it was great experience they would like to share.
 - Having this application accesible to travellers will not only allow them to try and learn about local meals, but also become part of the cultures by sharing experiences with locals and not so much with tourists only.

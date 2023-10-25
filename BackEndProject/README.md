@@ -1,4 +1,4 @@
-## Project #2
+## Backend Project
 Give a high-level overview of the project purpose
 - This project are for people who are new in town and are looking for events to meet new friends. Whether is a simple gathering or a big event. The job that will do for them is to be able to meet new people, by allowing them to see posts from everyone to events, bbqs or simply dinners but this application will also allow users to create their own event.
 - What inspired me to create this application was because I moved to a different city, and sometimes is very hard to meet people when you are completely new in town. The most important features of this application are the creation of vites(events), and be able to see the vites(events) from everyone. Some future features to be implented are to be able to RSVP the event and upload photos.

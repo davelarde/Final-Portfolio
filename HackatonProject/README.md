@@ -1,4 +1,4 @@
-## Project #1
+## Hackaton Project
 Give a high-level overview of the project purpose
 Travel Bubbles is an application where main users are travellers. Being away from home and having so many adventures can lead to forgetting do your laundry, unfortunately there are two option, paying a high amount of money to your hotel to do the laundry or washing it yourself in your own hotel room. 
 I was inspired to do this project, for the same reason that I was a world traveller for many years, and I had no time left to do the laundry and ending up paying high amounts of money to have it done.

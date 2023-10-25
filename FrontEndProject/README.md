@@ -1,4 +1,4 @@
-## Project #1
+## Frontend Project
 
 Rico Recipes is the perfect app, for stay home people who are looking daily for a recipe and ran out of ideas. This application will help you find any recipe by just typing a word or meal.
 This was a group project and my team-mates and I we were inspired to do this project , as most jobs are now a days remote, you tend to cook more but also run out of ideas.
