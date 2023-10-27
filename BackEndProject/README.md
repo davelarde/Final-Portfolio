@@ -3,17 +3,20 @@ Give a high-level overview of the project purpose
 - This project are for people who are new in town and are looking for events to meet new friends. Whether is a simple gathering or a big event. The job that will do for them is to be able to meet new people, by allowing them to see posts from everyone to events, bbqs or simply dinners but this application will also allow users to create their own event.
 What inspired me to create this application was because I moved to a different city, and sometimes is very hard to meet people when you are completely new in town. The most important features of this application are the creation of vites(events), and be able to see the vites(events) from everyone. Some future features to be implented are to be able to RSVP the event and upload photos.
 - STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
+    - (Situation)
+
         * This is a back-end application built with Node.js and using different request routes, to be able to see all events, create new events, delete events, and also be able to become an admnistrator and have it's own authorization. This application has accesibility only if the user had registered or created their account. Only with an account users will be able to create events and see the rest of the events to be part of NewBee.
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
+    - (Task) 
         * This project structure is the following:
         *  DB folder : where all the database created is located and user and vite model. 
         * This folder will make possible to use GET request and POST request to create a new "vite".
         * Public Folder : Will contain all the html files, for the front-end, this was built more for design porpuses to have an actual page and not only be able to tested in Postman only
         * index.js file: 
         Will contain all the main code, where all the routes and logic is located.
-    - (Action) Explain the code you wrote to achieve your desired result
-        To achieve this application I followed the next steps:
+    - (Action) 
+    * This project was built under the github organization "NewBee", where you will be able to find a kan-ban board for all the tasks that needed to be done. This was considered one of the best methods to keep the project organized and follow all guidelines.
+    * The main repository for this project will be found inside the "Newbee" organization.
+        - To achieve this application I followed the next steps:
         * First create a database for all vites and users
         * Create User and Vite model to be able to use it with sequelize.
         * Create associations
@@ -31,7 +34,7 @@ What inspired me to create this application was because I moved to a different c
         * All User Routes, will only have administrator authorization middleware access.
         * User will be able to GET all VITES, POST(create)new vites, Delete and upate any vite.
 
-    - (Result) Showcase your final application with its functionality
+    - (Result) 
         * The result was a full stack project, where it wouldn't be succesfully be tested in Postman, but user had the chance to see a GUI of how eventually the application would look like.
 
 ## Demo

@@ -5,16 +5,16 @@ Give a high-level overview of the project purpose
 The most important features are that users are able to post a photo via a url, and fill out the form to describe the recommendation. This feature will only be allowed if the user had registered or login into the application, otherwise they cannot have access to this feature.
 
 - STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
+    - (Situation) 
         * The main reason to create this application was because as a traveller , I found it hard to find a restaurant where locals would go to eat their traditional meals, if you look into Tripadvisor most recommendations are high level restaurant or touristic restaurants that will not give the opportunity to get to know the real local meals or traditions. Now a days blogs don't really exist anymore and people relly on main sites like Tripadvisor missing out the real local experience, this is why "Dig-In" will revive the blog experience and make it interactive for the user.
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
+    - (Task) 
         * To design this application first it was needed to create a Database, where the seed data was firstly created, setting up routes for the different requests was the next step, even though this project did not required authorization middleware I decided to implemented for security porpuses.
-    - (Action) Explain the code you wrote to achieve your desired result
+    - (Action) 
         * This project is divided into two main folders:
         * Client(frontend)
         * Server(backend)
         * Having this division allowed me to have a smoother type of deployment, and also have an organized code.
-    - (Result) Showcase your final application with its functionality
+    - (Result) 
         * The application had a succesful deployment, by taking the bearer token, and be able to render all posts from users, and allow users to create new posts.
 
 
