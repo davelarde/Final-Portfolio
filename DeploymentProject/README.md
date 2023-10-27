@@ -10,6 +10,8 @@ The most important features are that users are able to post a photo via a url, a
     - (Task) 
         * To design this application first it was needed to create a Database, where the seed data was firstly created, setting up routes for the different requests was the next step, even though this project did not required authorization middleware I decided to implemented for security porpuses.
     - (Action) 
+    * This project was built under the github organization "Dig-in", where you will be able to find a kan-ban board for all the tasks that needed to be done. This was considered one of the best methods to keep the project organized and follow all guidelines.
+    * The main repository for this project will be found inside the "Dig-in" organization.
         * This project is divided into two main folders:
         * Client(frontend)
         * Server(backend)

@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-![Image](/images/banner2.webp "Motivational Banner")
+![Image](/Images/bannerDani2.png "Motivational Banner")
 
 <br>
 

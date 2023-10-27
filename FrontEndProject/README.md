@@ -10,6 +10,8 @@ The most important feature in this project is that you are able to search or use
         * To design this application we first decided to choose which pictures we were going to use for the main page, as we wanted to attrack users by putting the most foodie attractive pictures. This project is made up with two folders: Public and Src. In the Public folder you will be able to find the main html file, and in the SRC folder you will be able to find all the React Code that will make the html file run  in the front end. For the seed, we had used dummy data, where we pasted recipes found in the internet, so it can render in our seed.
          We decided to create different components, for the navbar, homepage, favorites page, recipe, recipe type , recipe card. All the components wil be found in the components folder within the SRC folder.
     - (Action) 
+    * This project was built under the github organization "Rico", where you will be able to find a kan-ban board for all the tasks that needed to be done. This was considered one of the best methods to keep the project organized and follow all guidelines.
+    * The main repository for this project will be found inside the "Rico" organization.
         * This project was built with React.js and we decided to use react router to have different pages that go along with our components. We also decided to use React Bootstrap for better results
     - (Result) 
         * You can find the result of this project in the following demo.
