@@ -3,15 +3,30 @@
 Rico Recipes is the perfect app, for stay home people who are looking daily for a recipe and ran out of ideas. This application will help you find any recipe by just typing a word or meal.
 This was a group project and my team-mates and I we were inspired to do this project , as most jobs are now a days remote, you tend to cook more but also run out of ideas.
 The most important feature in this project is that you are able to search or use the dropdown. Whether is breakfast, or dinner you can find any recipe at Rico-Recipes. if you perhaps are craving some breakfast you had in Mexico like "Chilaquiles" You will also be able to find the recipe in our app.
+- STAR Interview Questions:
+    - (Situation) Describe the application and why you created this program
+        * The main porpuse of this application was to create an application with a variety of recipes, so users don't need to run out of their for the week menu at home. Working remotely or staying at home everyday could become overwhelming if you run out of ideas of what to cook. Rico Recipes will make your life easier by showcasing recipes that will help you, and if any recipe is in your interest you can add it to your favorites page.
+    - (Task) Describe the overall structure of your application and the design process prior to building the program
+        * To design this application we first decided to choose which pictures we were going to use for the main page, as we wanted to attrack users by putting the most foodie attractive pictures. This project is made up with two folders: Public and Src. In the Public folder you will be able to find the main html file, and in the SRC folder you will be able to find all the React Code that will make the html file run  in the front end. For the seed, we had used dummy data, where we pasted recipes found in the internet, so it can render in our seed.
+         We decided to create different components, for the navbar, homepage, favorites page, recipe, recipe type , recipe card. All the components wil be found in the components folder within the SRC folder.
+    - (Action) Explain the code you wrote to achieve your desired result
+        * This project was built with React.js and we decided to use react router to have different pages that go along with our components. We also decided to use React Bootstrap for better results
+    - (Result) Showcase your final application with its functionality
+        * You can find the result of this project in the following demo.
+## Demo
+Please find below a quick video on how this app works. 
+
+
+[Rico Recipes](https://youtu.be/WE4RjUwTCiQ)
 
 ## Technologies
 - List all technologies and versions here
 - React.Js
 - HTML
 - CSS
-- SCSS
-- Bootstrap
-- Note any deployment tools as well
+- SASS
+- React Bootstrap
+
 
 ## Competencies
 ### Using React Bootstrap

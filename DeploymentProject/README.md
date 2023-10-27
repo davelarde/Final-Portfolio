@@ -6,18 +6,23 @@ The most important features are that users are able to post a photo via a url, a
 
 - STAR Interview Questions:
     - (Situation) Describe the application and why you created this program
-    The main reason to create this application was because as a traveller , I found it hard to find a restaurant where locals would go to eat their traditional meals, if you look into Tripadvisor most recommendations are high level restaurant or touristic restaurants that will not give the opportunity to get to know the real local meals or traditions. Now a days blogs don't really exist anymore and people relly on main sites like Tripadvisor missing out the real local experience, this is why "Dig-In" will revive the blog experience and make it interactive for the user.
+        * The main reason to create this application was because as a traveller , I found it hard to find a restaurant where locals would go to eat their traditional meals, if you look into Tripadvisor most recommendations are high level restaurant or touristic restaurants that will not give the opportunity to get to know the real local meals or traditions. Now a days blogs don't really exist anymore and people relly on main sites like Tripadvisor missing out the real local experience, this is why "Dig-In" will revive the blog experience and make it interactive for the user.
     - (Task) Describe the overall structure of your application and the design process prior to building the program
-    To design this application first it was needed to create a Database, where the seed data was firstly created, setting up routes for the different requests was the next step, even though this project did not required authorization middleware I decided to implemented for security porpuses.
+        * To design this application first it was needed to create a Database, where the seed data was firstly created, setting up routes for the different requests was the next step, even though this project did not required authorization middleware I decided to implemented for security porpuses.
     - (Action) Explain the code you wrote to achieve your desired result
-    This project is divided into two main folders:
-    * Client(frontend)
-    * Server(backend)
-    Having this division allowed me to have a smoother type of deployment, and also have an organized code.
+        * This project is divided into two main folders:
+        * Client(frontend)
+        * Server(backend)
+        * Having this division allowed me to have a smoother type of deployment, and also have an organized code.
     - (Result) Showcase your final application with its functionality
-    The application had a succesful deployment, by taking the bearer token, and be able to render all posts from users, and allow users to create new posts.
-- Include relevant screenshots
+        * The application had a succesful deployment, by taking the bearer token, and be able to render all posts from users, and allow users to create new posts.
 
+
+## Demo
+Please find below a quick video on how this app works. 
+
+
+[Dig-in](https://www.youtube.com/watch?v=6s1lQrmwAPM)
 
 ## Technologies
 - Node.js

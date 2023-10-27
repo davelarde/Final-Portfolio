@@ -6,14 +6,20 @@ The most important feature, is that this application will allow people to lend t
 
 - STAR Interview Questions:
     - (Situation) Describe the application and why you created this program
-    The main porpuse for this application is to allow travellers to find via an application, the nearest local laundry, that locals in the area are willing to rent so travellers can have cheaper options, and faster option for their laundry while travelling.
+        * The main porpuse for this application is to allow travellers to find via an application, the nearest local laundry, that locals in the area are willing to rent so travellers can have cheaper options, and faster option for their laundry while travelling.
     - (Task) Describe the overall structure of your application and the design process prior to building the program
-    For this application I have used Golang, Mux router and simple HTML and CSS for the front end UI design. The structure I have followed is that all the main code is located in the main.go file. 
-    In the assets folder you will be able to find the CSS file. and In the templates folder you will be able to find all the HTML files that connect with the back-end for the application to run.
+         * For this application I have used Golang, Mux router and simple HTML and CSS for the front end UI design. The structure I have followed is that all the main code is located in the main.go file. 
+            In the assets folder you will be able to find the CSS file. and In the templates folder you will be able to find all the HTML files that connect with the back-end for the application to run.
     - (Action) Explain the code you wrote to achieve your desired result
-    To achieve the desire result I first needed to build all the routes needed in Golang and using Gorilla Mux Router. To achieve this I had to reached a couple of resources to learn it's used. Once I was able to test this routes in Postman, then I was able to connect it with the front end.
+        * To achieve the desire result I first needed to build all the routes needed in Golang and using Gorilla Mux Router. To achieve this I had to reached a couple of resources to learn it's used. Once I was able to test this routes in Postman, then I was able to connect it with the front end.
     - (Result) Showcase your final application with its functionality
+         * To see the result of this application please click on the demo below
 
+## Demo
+Please find below a quick video on how this app works. 
+
+
+[Travel Bubbles](https://www.youtube.com/watch?v=PTfLnhe1lV4)
 
 ## Technologies
 - GoLang
