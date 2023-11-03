@@ -36,7 +36,7 @@ I am excited about the future possibilities that lie ahead for me in this field,
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview">Overview</a></li>
-    <li><a href="#FrontEndProject">Front end Project</a></li>
+    <li><a href="###FrontEndProject">Front end Project</a></li> 
     <li><a href="#BackEndProject">Back end Project</a></li>
     <li><a href="#DeploymentProject">Deployment Project</a></li>
     <li><a href="#Hackaton Project">Hackaton Project</a></li>
@@ -55,24 +55,26 @@ Front end project folder will include the front end project I've worked in a gro
 * Click the link to find out more about it :
 [Rico-Recipes](https://github.com/davelarde/Final-Portfolio/tree/main/FrontEndProject)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Back end Project
 
 Back-end project folder will include "Newbee" a backend project built with Node.js. This was the backend module project that helped me to understand much better how backend engineer works.
 * Click the link to find out more about it :
  [NewBee](https://github.com/davelarde/Final-Portfolio/tree/main/BackEndProject)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Deployment Project
 Deployment folder will include "Dig-in", a project done at the end of the Deployment Module at Multiverse Bootcamp. This project will describe the skills obtained during deployment, using CI/CD .
 * Click the link to find out more about it :
 [Dig-in](https://github.com/davelarde/Final-Portfolio/tree/main/DeploymentProject)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Hackaton Project 
 Hackaton Project folder will include "Travel-Bubbles", a very significant project and my first introduction to "Golang", a programming language that now a day is my main tool in my on-job training.
 * Click the link to find out more about it :
 [Travel Bubbles](https://github.com/davelarde/Final-Portfolio/tree/main/HackatonProject)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 

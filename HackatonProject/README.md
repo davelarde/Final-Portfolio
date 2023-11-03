@@ -13,7 +13,17 @@ The most important feature, is that this application will allow people to lend t
     - (Action) 
         * To achieve the desire result I first needed to build all the routes needed in Golang and using Gorilla Mux Router. To achieve this I had to reached a couple of resources to learn it's used. Once I was able to test this routes in Postman, then I was able to connect it with the front end.
     - (Result) 
-         * To see the result of this application please click on the demo below
+
+        * Being able to create routes that will work together with a simple front end, came as a result of a beautiful site.
+        - Dashboard or main page
+        !["Dashboard"](../Images/dashboardTravel.png)
+        - List of laundries available
+        !["memberspage"](../Images/members.png)
+        - Sign up form, to be part of Travel Bubbles
+        !["signupform"](../Images/signupformTravel.png)
+        - About us page, for users who just heard about "Travel bubbles"
+        !["aboutus"](../Images/aboutUsTravel.png)
+         * To see the result of this application please click on the demo below:
 
 ## Demo
 Please find below a quick video on how this app works. 
