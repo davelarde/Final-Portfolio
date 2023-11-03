@@ -18,6 +18,16 @@ The most important features are that users are able to post a photo via a url, a
         * Having this division allowed me to have a smoother type of deployment, and also have an organized code.
     - (Result) 
         * The application had a succesful deployment, by taking the bearer token, and be able to render all posts from users, and allow users to create new posts.
+        - With a successful adaptive frontend development with the backend I was able to achieve the following:
+    * Interact with Login models that will create new users, or login users that were already in the seed data.
+!["loginmodel"](../Images/loginModelDigin.png)
+
+-  Once the user is logged in , it will redirected to the dashboard page where it will be able to see all posts.
+!["dashboard"](../Images/dashboardDigin.png)
+- If the user would like to create a new post regarding a foodie they discovered, they can fill out the form.
+!["createFoodie"](../Images/CreatefoodiepostDigin.png)
+- Users are able to see their own posts they created.
+!["myposts"](../Images/Mypostsdigin.png)
 
 
 ## Demo
@@ -51,7 +61,6 @@ Successfully developed and deployed a user-friendly frontend using React.js, gai
     * Implemented Github workflows for continous integration and continous deployment, gaining a fundamental understanding of the CI/CD process and enhancing overall project efficiency.
 - Knowledge expansion through deployment challenges:
     * Explored multiple deployment platforms, because free tiers were eliminated , so selecting one and finding one was a challenge
-
 
 ### Efficient Deployment and Continuous improvement
 Implemented effective deployment strategies, learned new methods for Github workkflows.
