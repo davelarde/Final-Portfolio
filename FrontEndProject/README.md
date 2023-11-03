@@ -56,7 +56,6 @@ Some of the difficulties we faced, were on how to were learning how to use "Use 
 
  !["add Favorites 2"](../Images/addFavorites2.png)
 
- ## Demo
-Please find below a quick video on how this app works. After this video, I suggest you to get .mp4 extension to watch it.
+
 
 

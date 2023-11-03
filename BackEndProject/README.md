@@ -38,7 +38,7 @@ What inspired me to create this application was because I moved to a different c
         * The result was a full stack project, where it wouldn't be succesfully be tested in Postman, but user had the chance to see a GUI of how eventually the application would look like.
 
 ## Demo
-Please find below a quick video on how this app works. 
+Please find below a quick video on how this app works. This app was created to see in your localhost, but preferable used in POSTMAN
 
 
 [Newbee](https://www.youtube.com/watch?v=USKBqCBWP3I)
