@@ -49,7 +49,9 @@ Please find below a quick video on how this app works.
 
 
 ## Competencies
-### Adaptive frontend development and deployment
+### JF 2.3
+## Can develop effective user interfaces
+ Adaptive frontend development and deployment
 Successfully developed and deployed a user-friendly frontend using React.js, gaining valuable experience in various aspects of React and overcoming deployment challanges.
 - Rapid adaptation to React.js
     * Learned and applied React.js concepts learned in Multiverse bootcamp, including useState, useNavigate and other essential hooks, showcasing the ability to quickly grap new frontend technologies.
@@ -62,7 +64,9 @@ Successfully developed and deployed a user-friendly frontend using React.js, gai
 - Knowledge expansion through deployment challenges:
     * Explored multiple deployment platforms, because free tiers were eliminated , so selecting one and finding one was a challenge
 
-### Efficient Deployment and Continuous improvement
+### JF 4.3
+## Is able to build, manage and deploy code into the relevant environment
+Efficient Deployment and Continuous improvement
 Implemented effective deployment strategies, learned new methods for Github workkflows.
 - Successful backend deployment
     * Overcame challenges to deploy the backend succesfully, ensuring the application's core functionality was accesible to users, highlighting persistence and determination in problem resolution.

@@ -40,7 +40,9 @@ Please find below a quick video on how this app works.
 
 
 ## Competencies
-### Rapid learning and adaptability
+### JF 6.4
+## Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
+ Rapid learning and adaptability
 - Learning Golang
 Quickly acquired foundational knowledge in Golang within a short timeframe.
 * Demonstrated ability to grasp core programming concepts in Golang after a completing a 2 week-course, showcasing a string aptitude for learning new technologies.
@@ -52,11 +54,14 @@ The action I decided to take was to take new courses for Golang besides the one 
  
 
 
-### Efficient Problem-Solving and Project Execution
+### JF 5.5
+## Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues
+ Efficient Problem-Solving and Project Execution
 Built a functional full-stack project in Golang within a week, showcasing effective problem-solving skills, project management, and integration with the front-end techniques.
 * Succesfully implemented routes in Golang using Gorilla Mux, demonstrating adept problem-solving abilities in overcoming technical challenges.
 * Collaborated with front-end development, learning how to integrate back-end functionality seamlessly with HTML, ensuring a smooth user experience and full stack functionality.
 * Completed the entire project within a week, demonstrating efficient time management and project execution skills, despite the need to learn and implement full stack integration from scratch.
+* Able to fix bugs by my own, in a complete new framework, by doing research.
  
  By the end of the project, I was able to connect back-end with front-end having a result of full-stack.
 - Connect the competentcy to this project

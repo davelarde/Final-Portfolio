@@ -57,14 +57,19 @@ Please find below a quick video on how this app works. This app was created to s
 
 
 ## Competencies
-### Effective implementation of Authorization middleware.
+
+### JF 3.7
+## Can implement authentication and authorization to an API. 
+Effective implementation of Authorization middleware.
 Developed and integrated robust authorization middleware to ensure secure user interactions and administrative functionalities.
 - Designed and implemented "setUser" authorization middleware, enabling registered and logged-in users to create, update and delete their own events.
 - Developed administrator authorization middleware, allowing ONLY administrators to delete any events, including those created by users and granting them the ability to add users as administrators.
 - Ensured a secure environment where user actions were restricted based on their roles enhancing overall system integrity and user privacy.
 
 
-### Seamless integration of backend functionality with frontend
+### JF 2.5
+## Can implement a responsive User Interface
+Seamless integration of backend functionality with frontend
 Successfully connected backend functionality to the frontend, overcoming challenges related to bearer token authentication.
 - Implemented all backend routes(user registration/login,vite creation, updating and delete)to function correctly, ensuring the application's core logic was sound and reliable.
 - Overcame difficulties in connecting the backend with the frontend by understanding and implementing bearer token authentication, allowing secure data transmission and user authentication.

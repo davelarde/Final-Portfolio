@@ -31,7 +31,9 @@ Please find below a quick video on how this app works.
 
 
 ## Competencies
-### Using React Bootstrap
+### JF 6.5
+## Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
+Using React Bootstrap
 - List the full text of the job function first
 For many of my team members, including myself , using React was sort of new to us, some of us have used the regular Bootstrap but we were unaware that there was a React Bootstrap. So as a team we had to learn how to properly use it with React so our page won't only have good functionality but also would look good to our clients.
 
